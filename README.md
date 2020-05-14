@@ -5,8 +5,8 @@
 
 ### examples
 
-![alt text](https://github.com/andreasgrafen/current/blob/master/screenshots/bloodmoon.png?raw=true)
+![alt text](https://github.com/andreasgrafen/current/blob/master/screenshots/bloodmoon.jpg?raw=true)
 bloodmoon
 
-![alt text](https://github.com/andreasgrafen/current/blob/master/screenshots/nord.png?raw=true)
+![alt text](https://github.com/andreasgrafen/current/blob/master/screenshots/nord.jpg?raw=true)
 nord
